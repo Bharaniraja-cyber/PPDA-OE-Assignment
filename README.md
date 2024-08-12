@@ -1,6 +1,6 @@
 # Bharaniraja R - AI&DS (73772126108)   
 
-output will be shown on wiki page ([click here](https://github.com/Bharaniraja-cyber/PPDA_OE_Assignment1/wiki))
+output will be shown on wiki page ([click here][(https://github.com/Bharaniraja-cyber/PPDA-OE-Assignment/wiki/Output)])
 
 ## 1. Library Management System
 
